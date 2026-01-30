@@ -78,7 +78,6 @@ The work has been **accepted and published** in the *International Journal of Re
 
 ---
 
-## 📬 Contact
 **Author:** Bollu Meghana  
 📍 Electronics & Communication Engineering   
 🔗 GitHub: (this repository)
